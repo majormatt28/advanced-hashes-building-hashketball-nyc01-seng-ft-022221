@@ -6,13 +6,13 @@ def game_hash
       :colors => [" "],
       :players => [
         :player_name => {
-          :number => 
-          :shoe => 
-          :points => 
+          :number =>
+          :shoe =>
+          :points =>
           :rebounds =>
-          :assits => 
-          :steals => 
-          :blocks => 
+          :assits =>
+          :steals =>
+          :blocks =>
           :slam_dunks =>
         }]
     }
