@@ -5,7 +5,7 @@ def game_hash
       :team_name => ""
     },
     :away => {
-      :team_name
+      :team_name => ""
     }
   }
 end
