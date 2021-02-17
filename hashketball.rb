@@ -6,7 +6,8 @@ def game_hash
       :colors => [""]
     },
     :away => {
-      :team_name => ""
+      :team_name => "",
+      :colors => [""]
     }
   }
 end
