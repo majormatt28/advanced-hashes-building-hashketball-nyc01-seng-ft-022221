@@ -67,7 +67,6 @@ def game_hash
       :colors => [""],
       :players => [
         {
-          :player_name => {
           :player_name => "Jeff Adrein",
           :number => 4,
           :shoe => 18,
